@@ -1,1 +1,1 @@
-sim-governance
+sim-contract-wireframe
